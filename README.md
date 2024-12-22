@@ -4,19 +4,8 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 
 ---
 
-## 📊 GitHub Stats
-![Vinyas Bharadwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyas-bharadwaj&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
-
----
-
 ## 🥳 Tech Stack
 Here are the tools and technologies I use:
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks and Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -27,6 +16,13 @@ Here are the tools and technologies I use:
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Vinyas Bharadwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyas-bharadwaj&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
 
 ---
 

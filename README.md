@@ -27,9 +27,8 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 
 ---
 
-## 🔄 Let's Connect
-- [GitHub](https://github.com/your-username)  
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(optional, if you have one)*
+## 🔄 Let's Connect  
+- [LinkedIn]([https://www.linkedin.com/in/your-profil](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/)e) 
 
 Feel free to check out my repositories and projects! I’m always open to collaboration and learning new things.
 

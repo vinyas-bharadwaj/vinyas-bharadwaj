@@ -4,10 +4,7 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 
 ---
 
-# Tech Stack 💻
-Here are the tools and technologies I use:
-
-### Frameworks and Libraries
+## Tech Stack 💻
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -19,14 +16,14 @@ Here are the tools and technologies I use:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Vinyas Bharadwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyas-bharadwaj&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
 
 ---
 
-# 🔄 Let's Connect  
+## 🔄 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/)
 - [LeetCode](https://leetcode.com/u/vinyas_bharadwaj/)
 - [instagram](https://www.instagram.com/contrast_135/)

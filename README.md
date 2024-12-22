@@ -1,10 +1,10 @@
-# About Me:  
+# About Me 🌟
 
 I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer Science**. I enjoy exploring technology, solving problems, and creating projects that make an impact. When I'm not coding, you'll probably find me playing chess or watching anime.
 
 ---
 
-## 🥳 Tech Stack
+## Tech Stack 💻
 Here are the tools and technologies I use:
 
 ### Frameworks and Libraries

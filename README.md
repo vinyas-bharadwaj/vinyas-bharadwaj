@@ -9,15 +9,6 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
 
-
----
-
-## ✨ My Interests
-- **Backend Development**: Building robust and scalable systems.
-- **Frontend Development**: Creating responsive and user-friendly interfaces.
-- **Playing Chess**: Strategizing and sharpening my mind.
-- **Watching Anime**: Relaxing and diving into fascinating stories.
-
 ---
 
 ## 🔄 Let's Connect  

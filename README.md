@@ -4,7 +4,7 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 
 ---
 
-## Tech Stack 💻
+# Tech Stack 💻
 Here are the tools and technologies I use:
 
 ### Frameworks and Libraries
@@ -19,14 +19,14 @@ Here are the tools and technologies I use:
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 ![Vinyas Bharadwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyas-bharadwaj&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
 
 ---
 
-## 🔄 Let's Connect  
+# 🔄 Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/)
 - [LeetCode](https://leetcode.com/u/vinyas_bharadwaj/)
 - [instagram](https://www.instagram.com/contrast_135/)
@@ -34,8 +34,6 @@ Here are the tools and technologies I use:
 ---
 
 Feel free to check out my repositories and projects! I’m always open to collaboration and learning new things.
-
----
 
 
 

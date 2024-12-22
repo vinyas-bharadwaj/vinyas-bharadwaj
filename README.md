@@ -27,7 +27,9 @@ Here are the tools and technologies I use:
 ---
 
 ## 🔄 Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/) 
+- [LinkedIn](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/)
+- [LeetCode](https://leetcode.com/u/vinyas_bharadwaj/)
+- [instagram](https://www.instagram.com/contrast_135/)
 
 ---
 

@@ -4,18 +4,11 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 
 ---
 
-## 🔧 Skills
+## 📊 GitHub Stats
+![Vinyas Bharadwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyas-bharadwaj&show_icons=true&theme=radical)
 
-### Programming Languages
-- **Python**
-  - Frameworks: **FastAPI**, **Django**
-- **JavaScript**
-  - Frameworks/Libraries: **ReactJS**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
 
-### Web Development
-- **HTML**
-- **CSS**
-- **JavaScript**
 
 ---
 

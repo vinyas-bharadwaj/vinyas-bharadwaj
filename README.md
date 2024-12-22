@@ -12,7 +12,7 @@ I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer S
 ---
 
 ## 🔄 Let's Connect  
-- [LinkedIn]([(https://www.linkedin.com/in/vinyas-bharadwaj-443982293/)]) 
+- [LinkedIn](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/) 
 
 Feel free to check out my repositories and projects! I’m always open to collaboration and learning new things.
 

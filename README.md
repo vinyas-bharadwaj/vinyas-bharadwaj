@@ -1,3 +1,5 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 # About Me 🌟
 
 I'm currently a 2nd-year undergraduate student pursuing a degree in **Computer Science**. I enjoy exploring technology, solving problems, and creating projects that make an impact. When I'm not coding, you'll probably find me playing chess or watching anime.

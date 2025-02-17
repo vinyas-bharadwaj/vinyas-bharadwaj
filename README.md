@@ -24,13 +24,10 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 
 ---
 
-## 📊 GitHub Stats
-![Vinyas Bharadwaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinyas-bharadwaj&show_icons=true&theme=radical)
-
-## 📊 LeetCode Stats
+## 📊 GitHub Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinyas-bharadwaj&layout=compact&theme=radical)
 
-## LeetCode Stats
+## 📊 LeetCode Stats
 ![LeetCode Profile](https://leetcard.jacoblin.cool/vinyas_bharadwaj?theme=dark&ext=heatmap)
 
 ---

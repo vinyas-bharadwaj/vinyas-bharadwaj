@@ -36,6 +36,8 @@ I'm currently a **2nd-year undergraduate student** pursuing a degree in **Comput
 - [LinkedIn](https://www.linkedin.com/in/vinyas-bharadwaj-443982293/)
 - [LeetCode](https://leetcode.com/u/vinyas_bharadwaj/)
 - [Instagram](https://www.instagram.com/contrast_135/)
+- [Discord](https://discord.com/users/contrast101)
+
 
 ---
 

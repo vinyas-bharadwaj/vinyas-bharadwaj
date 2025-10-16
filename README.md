@@ -1,4 +1,5 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+[![An image of @vinyasbharadwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinyasbharadwaj)](https://holopin.io/@vinyasbharadwaj)
+
 
 # About Me 🌟
 
@@ -44,4 +45,4 @@ I'm currently a **3rd-year undergraduate student** pursuing a degree in **Comput
 
 Feel free to check out my repositories and projects! I’m always open to collaboration and learning new things.
 
-[![An image of @vinyasbharadwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinyasbharadwaj)](https://holopin.io/@vinyasbharadwaj)
+

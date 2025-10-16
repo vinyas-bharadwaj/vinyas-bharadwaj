@@ -43,3 +43,5 @@ I'm currently a **3rd-year undergraduate student** pursuing a degree in **Comput
 ---
 
 Feel free to check out my repositories and projects! I’m always open to collaboration and learning new things.
+
+[![An image of @vinyasbharadwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinyasbharadwaj)](https://holopin.io/@vinyasbharadwaj)
